@@ -6,4 +6,4 @@
 
 - 🌱 Principales habilidades HTML, CSS y Javascript
 - 📫 Cómo contactarme:
-- 💻 https://www.linkedin.com/in/peter-díaz87/
+- :fa-linkedin-square:  [Linkedin Peter Diaz](http://www.linkedin.com/in/peter-díaz "Linkedin Peter Diaz")
