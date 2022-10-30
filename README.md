@@ -1,10 +1,12 @@
 
 
-<h1 align="center">
-Hola a todos mi nombre es Peter Díaz 👋
+<img align="center" title="gif_animado" alt="gif_animado" src="https://github.com/github-peter-diaz/github-peter-diaz/blob/main/imagenes/Gif-Peter.gif">
+
+
+<h1>
+ :star: Hola mucho gusto, bienvenidos a mi Repositorio 👋
 </h1>
 
-<img align="center" title="gif_animado" alt="gif_animado" src="https://github.com/github-peter-diaz/github-peter-diaz/blob/main/imagenes/Gif-Peter.gif">
 
 ✔ Ante todo, muchas gracias por visitar mi perfil, soy estudiante de Análisis de Sistemas, autodidacta, curioso, motivado a los logros y apasionado por la tecnología, pienso que la mejor forma de aprender es compartiendo tus conocimientos con los demás. 
  
@@ -30,4 +32,4 @@ Hola a todos mi nombre es Peter Díaz 👋
 
  <a href="https://www.linkedin.com/in/peter-díaz/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" ></a> 
  <a href = "mailto:dpeter999@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" ></a>
-  <a href = "https://api.whatsapp.com/send/?phone=%2B5491127030286&text=Hola+vi+tu+CV+y+quiero+contactarte"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/whatsapp/whatsapp-icon.svg" ></a>
+ <a href = "https://api.whatsapp.com/send/?phone=%2B5491127030286&text=Hola+vi+tu+CV+y+quiero+contactarte"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" ></a>
