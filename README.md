@@ -30,3 +30,4 @@ Hola a todos mi nombre es Peter Díaz 👋
 
  <a href="https://www.linkedin.com/in/peter-díaz/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" ></a> 
  <a href = "mailto:dpeter999@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" ></a>
+  <a href = "https://api.whatsapp.com/send/?phone=%2B5491127030286&text=Hola+vi+tu+CV+y+quiero+contactarte"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/whatsapp/whatsapp-icon.svg" ></a>
