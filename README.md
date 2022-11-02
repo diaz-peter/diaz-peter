@@ -7,10 +7,9 @@
  :star: Hola mucho gusto, bienvenidos a mi Repositorio 👋
 </h1>
 
+✔ Soy un QA Automation Engineer, poseo excelentes habilidades de análisis, planificación y trabajo. Me gusta trabajar en equipo y guiar a mis compañeros para que juntos cumplamos las metas fijadas.
 
-✔ Ante todo, muchas gracias por visitar mi perfil, soy estudiante de Análisis de Sistemas, autodidacta, curioso, motivado a los logros y apasionado por la tecnología, pienso que la mejor forma de aprender es compartiendo tus conocimientos con los demás. 
- 
-✔ Actualmente me encuentro realizando varias formaciones y cursos para complementar mis conocimientos técnicos y buscando una oportunidad en el área de la tecnología donde pueda desarrollar mis habilidades, crecer junto a la empresa y mis compañeros de trabajo.
+✔ Busco desempeñarme en una organización donde pueda contribuir con mis conocimientos y habilidades para cumplir los objetivos planteados y seguir desarrollando mi carrera en el mundo IT.
 
 ## :star: Lenguajes y Herramientas:
 
